@@ -3,9 +3,6 @@
 ## About me
 I'm a french content user & developer.
 
-## Documentation
-https://overextended.github.io/docs/
-
 ## Git personal Stats
 <div align="center">
         <a href="https://ko-fi.com/StopherTv"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=StopherTV&layout=compact&theme=react&hide_border=true&show_icons=true"/></a>
